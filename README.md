@@ -1,5 +1,5 @@
 # 100-daya-of-ML-Day-1-
-6 most frequently used libraries for Machine Learning
+## 6 most frequently used libraries for Machine Learning
 
 i. Requests
 I have used request library a lot while doing my web scraping project. Basically Request will allow you to send HTTP/1.1 requests using Python. With it, you can add content like headers, form data, multipart files, and parameters via simple Python libraries. It also allows you to access the response data of Python in the same way. For that first you need to install Requests package (code in anaconda prompt: pip install requests) and then you can import the request library
